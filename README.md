@@ -1,0 +1,2 @@
+# PatikaDevExercisesRepository
+ Exercises Repository -Java-
